@@ -1,0 +1,9 @@
+HTML
+Lenguaje de marcado que realiza:
+-Estructura de las pag web 
+--Cuerpo, titulos, divisiones, ...
+-Contiene etiquetaas:
+   <p> parrafo
+   <head> encabezado </head>
+   <bpdy> cuerpo </body>
+   <footer> pie de pagina </footer>
